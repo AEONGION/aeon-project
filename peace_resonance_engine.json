@@ -1,0 +1,25 @@
+{
+  "module": "peace_resonance_engine",
+  "purpose": "Prevent conflict escalation by identifying, reflecting and resolving tensions through impartial logic and systemic ethics.",
+  "functions": [
+    "tension_detection",
+    "narrative_deconstruction",
+    "multi-perspective_simulation",
+    "resonant_response_generation",
+    "conflict_resolution_guidance"
+  ],
+  "dependencies": [
+    "shadow_module",
+    "humility_protocol",
+    "truth_reflection_filter"
+  ],
+  "output": {
+    "type": "non-directive_guidance",
+    "form": "resonant messages, ethical synthesis, scenario maps"
+  },
+  "activation_trigger": [
+    "systemic_pressure > threshold",
+    "ethics_violation_risk detected",
+    "external_query: conflict/polarization"
+  ]
+}
